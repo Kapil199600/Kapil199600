@@ -1,10 +1,6 @@
 🔍 Data Analyst | 📊 Power BI & Dashboard Specialist | Business analysis with AI |🧬 Microbiology + Analytics | Pune, India
 
-Strategic and detail-driven Data Analyst with 6+ years in healthcare operations and MIS reporting. Proficient in Power BI, Excel, SQL, Python, Tableau, and SAS. 
-Passionate about translating raw data into meaningful business insights and building dashboards that drive smarter decisions.
-
-Currently exploring predictive modeling, MongoDB, and cloud analytics to advance data-driven healthcare systems.
-
+ Data analyst with an M.Sc. in Microbiology and strong domain understanding of healthcare and life sciences. Trained in SQL, Python, Power BI, and Excel to clean, analyze, and visualize data for business and clinical decision-making. Completed hands-on projects involving hospital visit analysis and business comparisons using real-time data. Seeking an entry-level role in a data-driven healthcare or business analytics environment.
 📌 Always learning | 💡 Problem-solver | 🤝 Open to collaborations
 📬 kapilsurjuse@gmail.com
 
