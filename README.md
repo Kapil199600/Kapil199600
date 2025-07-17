@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 👋 Hi, I'm [Your Name] – an aspiring Data Analyst passionate about transforming raw data into actionable insights. Skilled in Python, SQL, Excel, and Power BI. Currently building projects to sharpen my skills and looking for my first data analyst role.
+- 🔭 👋 Hi, I'm KAPIL SURJUSE – an aspiring Data Analyst passionate about transforming raw data into actionable insights. Skilled in Python, SQL, Excel, and Power BI. Currently building projects to sharpen my skills and looking for my first data analyst role.
 
 
 - 🌱 I’m currently learning **MONGODB, AWS, PYTHON MACHINE LEARNING AND SAS**
