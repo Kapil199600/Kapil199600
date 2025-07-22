@@ -1,5 +1,5 @@
-![logo](https://github.com/Kapil199600/Kapil199600/blob/main/1747286263070.jpg)
-<h1 align="center">Hi 👋, I'm Kapil Vijay Surjuse</h1>
+![logo](https://github.com/Kapil199600/Kapil199600/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
+<h1 align="center">Hi 👋, WELL-COME to MY PROFILE </h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/thumbnail/cartoon-man-presenting-metrics-analysis-etujhj7k525owqmj.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil199600&label=Profile%20views&color=0e75b6&style=flat" alt="kapil199600" /> </p>
